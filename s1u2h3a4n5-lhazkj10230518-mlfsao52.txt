@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="電影戲劇",M8
 http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/51032.ts
-#EXTINF:-1 group-title="综合",欢喜台
+#EXTINF:-1 group-title="綜合",欢喜台
 http://vo01.mohdtv.com:8880/voby4055/7457362324/1725
 
 
@@ -18,6 +18,8 @@ http://metatvpro.xyz:25461/W1045/4329/12377
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="綜合",愛奇藝
 https://pixman.mytvsuper.com.mp/histar?id=astro-iqiyi
+#EXTINF:-1 group-title="電影戲劇", NOW華劇台 
+https://api.btbt.im/live?id=now-chinese-drama
 #EXTINF:-1 group-title="綜合", AOD國語 
 https://pixman.mytvsuper.com.mp/histar?id=astro-aod
 #EXTINF:-1 group-title="綜合", Astro歡喜 
@@ -36,18 +38,44 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台-字幕 
 https://cdn3.1678520.xyz/live/?id=fct2
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB+（字幕）
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", TVB+（字幕）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB+1080P
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", TVB+1080P
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB+720P
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="綜合", TVB+720P
 https://api.btbt.im/live?id=tvb-plus
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/13128ee3ad19c9b26d3484ba55c05906.png" group-title="綜合", 緯來日本
 https://api.btbt.im/live?id=videoland-japan
+
+
+
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="電影戲劇", 華劇1080P
+https://tvb.mytvsuper.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://assets.livednow.com/logo/華語劇台.png" group-title="電影戲劇", 華劇720P
+https://api.btbt.im/live?id=tvb-drama
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="電影戲劇", 亞劇1080
+https://tvb.mytvsuper.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="電影戲劇", 亞劇720
+https://api.btbt.im/live?id=tvb-asia-drama
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="電影戲劇", 千禧經典1080
+https://tvb.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png" group-title="電影戲劇", 千禧經典720
+https://api.btbt.im/live?id=tvb-classic
+#EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="電影戲劇", 美亞電影
+https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", myTV SUPER FREE
+https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+
 #EXTINF:-1 tvg-id="NowViu剧集台" tvg-name="NowViu剧集台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e404158bcd04f6d53753d6d3831f5d4d.webp" group-title="電影戲劇", NowViu剧集台
 https://api.btbt.im/live?id=now-viu-drama
+#EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-24/c65bed2b10345b876ddafe81f979e48f.webp" group-title="電影戲劇", MovieMovie
+https://api.btbt.im/live?id=moviemovie
 #EXTINF:-1 tvg-id="bao'爆谷星影台" tvg-name="爆谷星影台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-06-05/a759c098f343a0d786e82e6e87b430ec.png" group-title="電影戲劇", 星影台
 https://api.btbt.im/live?id=now-baogu-superstars
+#EXTINF:-1 tvg-id="爆谷台" tvg-name="爆谷台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-26/56162888526c89dd07f29ee0855d8c0a.png" group-title="電影戲劇", 爆谷台
+https://api.btbt.im/live?id=baogu-movies
+#EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://assets.livednow.com/logo/亞洲劇台.png" group-title="電影戲劇", 亞洲劇台
+https://tvb.mytvsuper.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 #EXTINF:-1 tvg-id="ViuTV-Six" tvg-name="ViuTV Six" tvg-logo="https://assets.livednow.com/logo/ViuTV-Six.png" group-title="電影戲劇", ViuTV6
 https://api.btbt.im/live?id=viutv
@@ -681,7 +709,8 @@ kIF72_wws3C8-aySqmGqNxZrQhzqoluzqgRM4TTuXMDEY_Q2XyXkb45VZmwmAt0YFkfJnrCyecmBCtVU
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="咪咕央视",CCTV17 农业农村
 https://livednow.com/migu/673168256?sign=gAAAAABmqO-15obofPthS64rhreaLIg--TY_yXDsrq5auXeU2AB-_s25UAoVJnzEGVHr59WNYaie9J8JuYGwCM9B4IqWYpEQwXD0_CDnXnh-aioAoltvYs_TirNH2pOc52gJzC4ruJR0KtwuptOcyu4c6ahhwIjg8-kY-yWUEga8TPCeZCPinis1FV_fylE55lJ-o-BH5TKIXCdv5S5DRAHsvO_DNx1snw%3D%3D
 
-
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="戲劇電影",CHC 家庭影院
+https://livednow.com/migu/644368373?sign=gAAAAABmqO-1t04dBKQqnCmhuNw66LzVgD_H3GiYDHvAdGaC43nCpWm6zZoLvGqlSKTTE2XTefI3Ehc0h2LTDWSRRVCGM0BCGYgPHuoGiNAU65rMeZzVHFY_kbkWqrvriHQfQXivaPbzTm_40niqfQswysnLAO6luLI9Ml6PfCcJ3I8McrP99SJQXsiG4B0_Hn2EDH6eK3Zbu3pwgtFf88hgXBRQ6vP26w%3D%3D
 
 
 
