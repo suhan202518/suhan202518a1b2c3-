@@ -709,7 +709,7 @@ kIF72_wws3C8-aySqmGqNxZrQhzqoluzqgRM4TTuXMDEY_Q2XyXkb45VZmwmAt0YFkfJnrCyecmBCtVU
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17 农业农村" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="咪咕央视",CCTV17 农业农村
 https://livednow.com/migu/673168256?sign=gAAAAABmqO-15obofPthS64rhreaLIg--TY_yXDsrq5auXeU2AB-_s25UAoVJnzEGVHr59WNYaie9J8JuYGwCM9B4IqWYpEQwXD0_CDnXnh-aioAoltvYs_TirNH2pOc52gJzC4ruJR0KtwuptOcyu4c6ahhwIjg8-kY-yWUEga8TPCeZCPinis1FV_fylE55lJ-o-BH5TKIXCdv5S5DRAHsvO_DNx1snw%3D%3D
 
-#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="戲劇電影",CHC 家庭影院
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC 家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="電影戲劇",CHC 家庭影院
 https://livednow.com/migu/644368373?sign=gAAAAABmqO-1t04dBKQqnCmhuNw66LzVgD_H3GiYDHvAdGaC43nCpWm6zZoLvGqlSKTTE2XTefI3Ehc0h2LTDWSRRVCGM0BCGYgPHuoGiNAU65rMeZzVHFY_kbkWqrvriHQfQXivaPbzTm_40niqfQswysnLAO6luLI9Ml6PfCcJ3I8McrP99SJQXsiG4B0_Hn2EDH6eK3Zbu3pwgtFf88hgXBRQ6vP26w%3D%3D
 
 
