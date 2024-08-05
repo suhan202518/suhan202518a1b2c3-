@@ -11,7 +11,10 @@ http://vo01.mohdtv.com:8880/voby4055/7457362324/1725
 
 #EXTINF:-1 group-title="電影戲劇",HBO
 http://125.227.210.55:8153/VideoInput/play.ts
-
+#EXTINF:-1 group-title="綜合",國家地理
+http://fm1077.serv00.net/Smart.php?id=natgeohd_twn
+#EXTINF:-1 group-title="綜合",動物星球
+http://fm1077.serv00.net/Smart.php?id=animalplanet_twn
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="綜合",愛奇藝
 http://metatvpro.xyz:25461/W1045/4329/12377
@@ -63,6 +66,8 @@ https://tvb.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f15
 https://api.btbt.im/live?id=tvb-classic
 #EXTINF:-1 tvg-id="美亞電影台-HK" tvg-name="美亞電影台" tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="電影戲劇", 美亞電影
 https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png" group-title="電影戲劇", 美亞電影國語
+http://fm1077.serv00.net/Smart.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="MytvSuper" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png" group-title="電影戲劇", myTV SUPER FREE
 https://tvb.mytvsuper.us.kg/stream/tvb/mytvsuperfree/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
