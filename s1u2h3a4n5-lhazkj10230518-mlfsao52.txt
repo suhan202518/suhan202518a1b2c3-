@@ -30,7 +30,7 @@ http://metatvpro.xyz:25461/W1045/4329/12377
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="綜合",愛奇藝
 https://pixman.mytvsuper.com.mp/histar?id=astro-iqiyi
-#EXTINF:-1 group-title="電影戲劇", NOW華劇台 
+#EXTINF:-1 tvg-id="NowViu剧集台" tvg-name="NowViu剧集台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e404158bcd04f6d53753d6d3831f5d4d.webp" group-title="電影戲劇", Now華劇
 https://api.btbt.im/live?id=now-chinese-drama
 #EXTINF:-1 tvg-id="AstroAOD311" tvg-name="Astro AOD" tvg-logo="http://content.stream-link.org/tv_logo/astro_aod.png" group-title="綜合",AOD 國語
 https://pixman.mytvsuper.com.mp/histar?id=astro-aod
