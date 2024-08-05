@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
+#EXTINF:-1 group-title="電影戲劇",M8
+http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/51032.ts
+#EXTINF:-1 group-title="综合",欢喜台
+http://vo01.mohdtv.com:8880/voby4055/7457362324/1725
+
+
+
+
 #EXTINF:-1 group-title="電影戲劇",HBO
 http://125.227.210.55:8153/VideoInput/play.ts
 
@@ -23,10 +31,17 @@ http://extraott.com:80/live/7921751389/6097373662/5490.m3u8
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台
 http://cdn10.jdshipin.com:8880/fct/
-
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台2
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="綜合", 翡翠台-字幕 
 https://cdn3.1678520.xyz/live/?id=fct2
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB+（字幕）
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB+1080P
+http://php.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="综合", TVB+720P
+https://api.btbt.im/live?id=tvb-plus
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-05-15/13128ee3ad19c9b26d3484ba55c05906.png" group-title="綜合", 緯來日本
 https://api.btbt.im/live?id=videoland-japan
 #EXTINF:-1 tvg-id="NowViu剧集台" tvg-name="NowViu剧集台" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e404158bcd04f6d53753d6d3831f5d4d.webp" group-title="電影戲劇", NowViu剧集台
