@@ -1,20 +1,33 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
-#EXTINF:-1 group-title="電影戲劇",M8
+
+#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="http://content.stream-link.org/tv_logo/channel_5.png" group-title="電影戲劇",M5
+https://sc2024.stream-link.org/live/4576187133.php?id=h161zhz
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/tv_logo/channel_8.png" group-title="電影戲劇",M8
+https://sc2024.stream-link.org/live/4576187133.php?id=h709whq
+#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/tv_logo/channel_8.png" group-title="電影戲劇",M8備
 http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/51032.ts
-#EXTINF:-1 group-title="綜合",欢喜台
+#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="http://content.stream-link.org/tv_logo/channel_u.png" group-title="電影戲劇",M u
+https://sc2024.stream-link.org/live/4576187133.php?id=h277bhk
+
+
+
+
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="http://content.stream-link.org/tv_logo/astro_aec.png" group-title="綜合",歡喜台
 http://vo01.mohdtv.com:8880/voby4055/7457362324/1725
 
 
 
 
-#EXTINF:-1 group-title="電影戲劇",HBO
+#EXTINF:-1 tvg-id="HBOAsia" tvg-name="HBO Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo.png" group-title="電影戲劇",HBO Asia
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 group-title="綜合",國家地理
 http://fm1077.serv00.net/Smart.php?id=natgeohd_twn
 #EXTINF:-1 group-title="綜合",動物星球
 http://fm1077.serv00.net/Smart.php?id=animalplanet_twn
+#EXTINF:-1 group-title="綜合",TLC 亞洲
+http://fm1077.serv00.net/Smart.php?id=tlc_twn
 
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="綜合",愛奇藝
 http://metatvpro.xyz:25461/W1045/4329/12377
@@ -23,11 +36,13 @@ http://metatvpro.xyz:25461/W1045/4329/12377
 https://pixman.mytvsuper.com.mp/histar?id=astro-iqiyi
 #EXTINF:-1 group-title="電影戲劇", NOW華劇台 
 https://api.btbt.im/live?id=now-chinese-drama
-#EXTINF:-1 group-title="綜合", AOD國語 
+#EXTINF:-1 tvg-id="AstroAOD311" tvg-name="Astro AOD" tvg-logo="http://content.stream-link.org/tv_logo/astro_aod.png" group-title="綜合",AOD 國語
 https://pixman.mytvsuper.com.mp/histar?id=astro-aod
-#EXTINF:-1 group-title="綜合", Astro歡喜 
+#EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-name="Astro AQuanJia" tvg-logo="http://content.stream-link.org/tv_logo/astro_qj.png" group-title="綜合",Astro QJ
+https://sc2024.stream-link.org/live/4576187133.php?id=h632shz
+#EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="http://content.stream-link.org/tv_logo/astro_aec.png" group-title="綜合",Astro 歡喜
 https://pixman.mytvsuper.com.mp/histar?id=astro-huaheedai
-#EXTINF:-1 group-title="電影戲劇", hbo-hd
+#EXTINF:-1 tvg-id="HBOAsia" tvg-name="HBO Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo.png" group-title="電影戲劇",HBO
 https://pixman.mytvsuper.com.mp/histar?id=hbo-hd
 
 
@@ -101,6 +116,8 @@ https://tvb.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159a
 https://tvb.mytvsuper.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="綜合", tvN
 https://tvb.mytvsuper.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="綜合", 備用-ijk
+https://sc2024.stream-link.org/live/1498819969.php?id=h275bhg
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://assets.livednow.com/logo/KIX.png" group-title="電影戲劇", KIX
 https://tvb.mytvsuper.us.kg/stream/tvb/kix/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc#EXTINF:-1 tvg-id="MovieMovie" tvg-name="MovieMovie" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-24/c65bed2b10345b876ddafe81f979e48f.webp" group-title=
 "電影戲劇", MovieMovie
