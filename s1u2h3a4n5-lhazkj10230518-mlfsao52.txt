@@ -2,14 +2,10 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 
 
-#EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="http://content.stream-link.org/tv_logo/channel_5.png" group-title="電影戲劇",M5
-https://sc2024.stream-link.org/live/4576187133.php?id=h161zhz
+
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/tv_logo/channel_8.png" group-title="電影戲劇",M8
-https://sc2024.stream-link.org/live/4576187133.php?id=h709whq
-#EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="http://content.stream-link.org/tv_logo/channel_8.png" group-title="電影戲劇",M8備
 http://mytvhd.ath.cx:8080/dmtn/8juZjFZ@5ZfzpZkF/51032.ts
-#EXTINF:-1 tvg-id="ChannelU.sg" tvg-name="Channel U" tvg-logo="http://content.stream-link.org/tv_logo/channel_u.png" group-title="電影戲劇",M u
-https://sc2024.stream-link.org/live/4576187133.php?id=h277bhk
+
 
 
 
@@ -38,8 +34,7 @@ https://pixman.mytvsuper.com.mp/histar?id=astro-iqiyi
 https://api.btbt.im/live?id=now-chinese-drama
 #EXTINF:-1 tvg-id="AstroAOD311" tvg-name="Astro AOD" tvg-logo="http://content.stream-link.org/tv_logo/astro_aod.png" group-title="綜合",AOD 國語
 https://pixman.mytvsuper.com.mp/histar?id=astro-aod
-#EXTINF:-1 tvg-id="AstroQuanJiaHD" tvg-name="Astro AQuanJia" tvg-logo="http://content.stream-link.org/tv_logo/astro_qj.png" group-title="綜合",Astro QJ
-https://sc2024.stream-link.org/live/4576187133.php?id=h632shz
+
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="Astro AEC" tvg-logo="http://content.stream-link.org/tv_logo/astro_aec.png" group-title="綜合",Astro 歡喜
 https://pixman.mytvsuper.com.mp/histar?id=astro-huaheedai
 #EXTINF:-1 tvg-id="HBOAsia" tvg-name="HBO Asia" tvg-logo="http://content.stream-link.org/tv_logo/hbo.png" group-title="電影戲劇",HBO
