@@ -20,6 +20,8 @@ http://vo01.mohdtv.com:8880/voby4055/7457362324/1725
 http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 group-title="綜合",國家地理
 http://fm1077.serv00.net/Smart.php?id=natgeohd_twn
+#EXTINF:-1 group-title="綜合",國家地理xsj
+https://sxj.btjson.us.kg/histar?id=natgeo-wild
 #EXTINF:-1 group-title="綜合",動物星球
 http://fm1077.serv00.net/Smart.php?id=animalplanet_twn
 #EXTINF:-1 group-title="綜合",TLC 亞洲
@@ -109,6 +111,8 @@ https://tvb.mytvsuper.us.kg/stream/tvb/rock/master.m3u8?u=btjson&p=213f2541f159a
 
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="電影戲劇", Thrill
 https://tvb.mytvsuper.us.kg/stream/tvb/thrill/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="電影戲劇", Thrill備
+https://sxj.btjson.us.kg/histar?id=thrill
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="綜合", tvN
 https://tvb.mytvsuper.us.kg/stream/tvb/tvn/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 #EXTINF:-1 tvg-id="tvN-HK" tvg-name="tvN" tvg-logo="https://assets.livednow.com/logo/tvN-HK.png" group-title="綜合", 備用-ijk
